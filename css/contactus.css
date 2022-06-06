@@ -1,0 +1,20 @@
+.underline{
+    height: 4px;
+    width: 150px;
+    background-color: burlywood;
+    margin-bottom: 20px;
+
+}
+
+.contact-section{
+    font-family: 'Montserrat', sans-serif;
+    padding: 50px;
+}
+
+input,textarea{
+    background-color: #f6f4ef;
+}
+
+.abt-icons:hover{
+color: burlywood;
+}
